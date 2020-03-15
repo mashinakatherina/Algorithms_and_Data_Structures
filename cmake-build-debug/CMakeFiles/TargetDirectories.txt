@@ -1,0 +1,14 @@
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1207.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1005.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1401.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1322.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1155.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1450.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1296.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t2025.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1444.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1604.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1728.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/t1067.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/aaalgo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
