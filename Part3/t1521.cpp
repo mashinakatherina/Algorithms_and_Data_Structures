@@ -24,7 +24,6 @@ int main() {
     int n, k;
     cin >> n;
     cin >> k;
-
     if (n == 1) {
         cout << 1;
         return 0;
@@ -34,7 +33,6 @@ int main() {
     while (n_max < n)
         n_max <<= 1;
     int* solders = new int[2 * n_max];
-
 
     for (int i = 0; i < n; i++)
         solders[n_max + i] = i + 1;
