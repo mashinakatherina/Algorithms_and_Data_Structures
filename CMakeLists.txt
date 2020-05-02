@@ -24,4 +24,5 @@ add_executable(t1650 Part3/t1650.cpp)
 
 add_executable(t1450 Part4/t1450.cpp)
 add_executable(t1080 Part4/t1080.cpp)
-add_executable(t11162 Part4/t1162.cpp)
+add_executable(t1162 Part4/t1162.cpp)
+add_executable(t1160 Part4/t1160.cpp)
