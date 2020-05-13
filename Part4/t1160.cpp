@@ -46,7 +46,6 @@ int main() {
                 max = v[i].l;
             }
             v[i].l *= -1;
-
             int x = find(n1);
             int y = find(n2);
             if (r[x] > r[y]) t[y] = x;
