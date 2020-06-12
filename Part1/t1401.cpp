@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
+using namespace std;
 
-//1401. Игроки
 int board[512][512];
 
 // i, j - координаты начала квадрата
@@ -75,20 +75,20 @@ void makeBoard(int x, int y, int i, int j, int n) {
 
 int main() {
     int n, x, y;
-    std::cin >> n >> y >> x;
+    cin >> n >> y >> x;
     x--;
     y--;
     n = (int) pow(2, n);
     if ((int) (pow(n, 2) - 1) % 3 != 0) {
-        std::cout << -1;
+        cout << -1;
         return 0;
     }
     makeBoard(x, y, 0, 0, n);
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < n; ++j) {
-            std::cout << board[i][j] << " ";
+            cout << board[i][j] << " ";
         }
-        std::cout << std::endl;
+        cout << std::endl;
     }
     return 0;
 }
