@@ -1,18 +1,19 @@
 #include <iostream>
 #include <cmath>
+using namespace std;
 
 int separate(int i, int heap1, int heap2, int array[]);
 int MinimumWeightDifference = INT_MAX;
 int n;
 
 int main() {
-    std::cin >> n;
+    cin >> n;
     int weightOfRocks[n];
     for (int i = 0; i < n; ++i) {
-        std::cin >> weightOfRocks[i];
+        cin >> weightOfRocks[i];
     }
     separate(0, 0, 0, weightOfRocks);
-    std::cout << MinimumWeightDifference;
+    cout << MinimumWeightDifference;
     return 0;
 }
 
